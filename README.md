@@ -49,4 +49,4 @@ I constantly devote my time to discovering new areas and modern technologies to 
 <br />
 
 <h1>Academic Qualifications and Certifications:</h1>
-<h3>Bachelor’s degree of Science in Computer and Information Systems in the Arab American University of Palestine (AAUP), September 2019.</h3>
+<h3>Bachelor’s degree of Science in Computer and Information Systems in the Arab American University of Palestine (AAUP), September 2019</h3>
