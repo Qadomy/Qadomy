@@ -2,7 +2,6 @@
 <h3 align="center">Live: Tulkarm, Palestine</h3>
 <h3 align="center"><a href="tel:+972595466467">Phone: (+972) 595-466-467</a></h3>
 
-<h1>Career Objective:</h1>
 <h3><p>
   I am an Android developer who is obsessed with building different powerful and robust Applications that follow best practices with native languages, I have a Bachelor's with a big background in computer science information.
 I constantly devote my time to discovering new areas and modern technologies to increase the efficiency of development and produce innovative solutions and to expand my experience and skills.
