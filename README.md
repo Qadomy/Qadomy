@@ -20,7 +20,10 @@ I constantly devote my time to discovering new areas and modern technologies to 
 </p>
 <!--  -->
 
+<br>
+<br><br><br><br><br><br><br>
 <h1>Summary of Technical and Personal Skills:</h1>
+
 <ul>
 <li>Worked on Android mobile Native Kotlin, Java</li>
 <li>Experience with REST API</li>
