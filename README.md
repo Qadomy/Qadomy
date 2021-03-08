@@ -20,7 +20,7 @@ I constantly devote my time to discovering new areas and modern technologies to 
 </p>
 <!--  -->
 
-<br>
+<!-- <br>
 <br><br><br><br><br><br><br>
 <h1>Summary of Technical and Personal Skills:</h1>
 
@@ -47,9 +47,3 @@ I constantly devote my time to discovering new areas and modern technologies to 
 <li>Experts with Google Maps SDK</li>
 <li>Familiar with Jetpack technologies from Google</li>
 </ul> -->
-
-
-<br />
-
-<h1>Academic Qualifications and Certifications:</h1>
-<h3>Bachelor’s degree of Science in Computer and Information Systems in the Arab American University of Palestine (AAUP), September 2019</h3>
