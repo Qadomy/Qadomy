@@ -24,9 +24,9 @@ I constantly devote my time to discovering new areas and modern technologies to 
 <br><br><br><br><br><br><br>
 <h1>Summary of Technical and Personal Skills:</h1>
 
-<ul>
-<li>Worked on Android mobile Native Kotlin, Java</li>
-<li>Experience with REST API</li>
+<!-- <ul>
+ <li>Worked on Android mobile Native Kotlin, Java</li>
+ <li>Experience with REST API</li>
 <li>Using Fragments and Navigation Fragments</li>
 <li>Using Material Design for Applications designs</li>
 <li>Knowledge of VCS tools (Git)</li>
@@ -46,7 +46,7 @@ I constantly devote my time to discovering new areas and modern technologies to 
 <li>Write clean, clear, efficient, and maintainable code</li>
 <li>Experts with Google Maps SDK</li>
 <li>Familiar with Jetpack technologies from Google</li>
-</ul>
+</ul> -->
 
 
 <br />
