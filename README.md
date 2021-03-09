@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Qadomy</h1>
-<!-- <h3 align="center">Live: Tulkarm, Palestine</h3> -->
+<h3 align="center">Mobile Application Developer</h3>
 <h3 align="center"><a href="tel:+972595466467">Phone: (+972) 595-466-467</a></h3>
 
 <!-- <h3><p>
