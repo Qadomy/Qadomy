@@ -7,7 +7,8 @@
 I constantly devote my time to discovering new areas and modern technologies to increase the efficiency of development and produce innovative solutions and to expand my experience and skills.
 </p></h3> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qadomy&show_icons=true" alt="qadomy" /></p>
+<p>&nbsp;</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qadomy&show_icons=true" alt="qadomy" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadomy&layout=compact&hide=html" alt="qadomy" /></p>
 
 
